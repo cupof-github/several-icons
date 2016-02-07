@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?69728287');
+  src: url('../font/fontello.eot?69728287#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?69728287') format('woff'),
+       url('../font/fontello.ttf?69728287') format('truetype'),
+       url('../font/fontello.svg?69728287#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?69728287#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="c-fa-"]:before, [class*=" c-fa-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.c-fa-line:before { content: '\e800'; } /* '' */
+.c-fa-feedly:before { content: '\e801'; } /* '' */
+.c-fa-raspberrypi:before { content: '\e802'; } /* '' */
+.c-fa-sass:before { content: '\e803'; } /* '' */
+.c-fa-netflix:before { content: '\e804'; } /* '' */
+.c-fa-hatenabookmark:before { content: '\e805'; } /* '' */
+.c-fa-gulp:before { content: '\e806'; } /* '' */
+.c-fa-ubuntu:before { content: '\e807'; } /* '' */
+.c-fa-hulu:before { content: '\e808'; } /* '' */
+.c-fa-ruby:before { content: '\e809'; } /* '' */
+.c-fa-heroku:before { content: '\e80a'; } /* '' */
+.c-fa-gumtree:before { content: '\e80b'; } /* '' */
+.c-fa-jenkins:before { content: '\e80c'; } /* '' */
+.c-fa-nintendo:before { content: '\e80d'; } /* '' */
+.c-fa-fbmessenger:before { content: '\e80e'; } /* '' */
+.c-fa-mixi:before { content: '\e80f'; } /* '' */
+.c-fa-microsoftonenote:before { content: '\e810'; } /* '' */
+.c-fa-playstation:before { content: '\e811'; } /* '' */
+.c-fa-laravel:before { content: '\e812'; } /* '' */
+.c-fa-javascript:before { content: '\e813'; } /* '' */
+.c-fa-googleplay:before { content: '\e814'; } /* '' */
+.c-fa-bootstrap:before { content: '\e815'; } /* '' */
+.c-fa-meetup:before { content: '\e816'; } /* '' */
+.c-fa-kickstarter:before { content: '\e817'; } /* '' */
+.c-fa-microsoftaccess:before { content: '\e818'; } /* '' */
+.c-fa-microsoftpowerpoint:before { content: '\e819'; } /* '' */
+.c-fa-microsoftexcel:before { content: '\e81a'; } /* '' */
+.c-fa-microsoftoutlook:before { content: '\e81b'; } /* '' */
+.c-fa-microsoftword:before { content: '\e81c'; } /* '' */
+.c-fa-microsoft:before { content: '\e81d'; } /* '' */
+.c-fa-w3c:before { content: '\e81e'; } /* '' */
+.c-fa-lego:before { content: '\e81f'; } /* '' */
