@@ -63,8 +63,9 @@ Icons list
 | Microsoft Powerpoint 	| c-fa-microsoftpowerpoint  | Microsoft's application |
 | Microsoft Word		| c-fa-microsoftword      	| Microsoft's application |
 | mixi 			 		| c-fa-mixi     	   		| SNS service (Well-known in japan) |
+| Nintendo				| c-fa-nintendo      		| company |
 | NETFLIX 		 		| c-fa-netflix      		| Streaming-video service |
-| playstation 			| c-fa-playstation      	| Task ranner on node.js |
+| playstation 			| c-fa-playstation      	| company |
 | ubuntu 				| c-fa-ubuntu 	     		| Linux distribution |
 | raspberry PI 	 		| c-fa-raspberrypi			| One-board Linux |
 | ruby 					| c-fa-ruby    		  		| Programmming language |
