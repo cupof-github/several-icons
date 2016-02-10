@@ -27,6 +27,10 @@ how to use
 ```
 
 #### on html
+
+a class names are focus on similar to "fa-*" in case of add on original font-awesome
+and able to replace it easily.
+
 ``` html
 <i class="fa c-fa-line"></i> LINE
 ```
