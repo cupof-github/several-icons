@@ -28,8 +28,8 @@ how to use
 
 #### on html
 
-a class names are focus on similar to "fa-*" in case of add on original font-awesome
-and able to replace it easily.
+a class names are focus on similar to "fa-*" for easy to recognize
+and in case of adding on original font-awesome then can be replace it easily.
 
 ``` html
 <i class="fa c-fa-line"></i> LINE
