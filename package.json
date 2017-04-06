@@ -1,0 +1,22 @@
+{
+  "name": "several-icons",
+  "version": "1.0.0",
+  "description": "my experimental build icon with fontello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupof-github/several-icons.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "cupof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupof-github/several-icons/issues"
+  },
+  "homepage": "https://github.com/cupof-github/several-icons#readme"
+}
